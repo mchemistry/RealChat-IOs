@@ -3,5 +3,5 @@
 ## Intro
     Chat App using Firebase
 ## Install
-Setting Firebase Manualy via 
-<a href="https://firebase.google.com/docs/android/setup">Setting Firebase Manualy</a>
+Setting Firebase Manually via 
+<a href="https://firebase.google.com/docs/android/setup">Setting Firebase Manually</a>
